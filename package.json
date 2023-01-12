@@ -1,0 +1,11 @@
+{
+  "name": "compilador",
+  "version": "1.0.0",
+  "description": "Compilador de lenguaje Python a C++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Gtz",
+  "license": "ISC"
+}
